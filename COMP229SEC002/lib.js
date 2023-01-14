@@ -1,11 +1,17 @@
 
 export function halfOf(x) {
-    return x / 2;
-    }
+    return x / 2;    
+}
 
 export function multiply(x, y) {
 return x * y;
 }
 
-    
+
+export function devide (x, y) {
+    return x/y;
+}
+
+
+
 
